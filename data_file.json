@@ -1,0 +1,6 @@
+data = {
+    "president": {
+        "name" : "Mark Boren",
+        "species" : "Aussie"
+    }
+}
